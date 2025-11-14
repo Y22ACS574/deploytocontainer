@@ -28,7 +28,7 @@
     <input type="date" name="dob"><br><br>
 
     <label>Gender:</label><br>
-    <select name="gender">
+    <select name="gender"> 
         <option>Male</option>
         <option>Female</option>
         <option>Other</option>
